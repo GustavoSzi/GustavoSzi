@@ -2,10 +2,8 @@
 
 
 <div>
-  <a href="https://github.com/GustavoSzi">
   <img width="410em" height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoSzi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img width="407em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoSzi&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
 </div>
   
 <div style="display: inline_block"><br>
